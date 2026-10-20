@@ -1,0 +1,14 @@
+# секреты и локальные данные
+config.txt
+Proxy.txt
+mail.txt
+done.txt
+account.json
+
+# служебное
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.venv/
+venv/

@@ -1,0 +1,5 @@
+Mail_count=5
+Link=https://waitlist.gte.xyz/r/RMB0E
+Threads=1
+Captcha_key=
+Captcha_service=capsolver
